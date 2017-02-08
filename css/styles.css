@@ -1,0 +1,20 @@
+.first {
+  font-size: 30px;
+  color: blue;
+}
+
+
+.second {
+  background-color: darkblue;
+  color: white;
+}
+
+.about {
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+.important {
+  font-style: oblique;
+  font-weight: bold;
+}
